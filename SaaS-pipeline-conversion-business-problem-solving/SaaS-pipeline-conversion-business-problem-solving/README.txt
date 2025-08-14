@@ -125,4 +125,8 @@ This project successfully identified **critical bottlenecks** in TechnoServe’s
 
 ## 👤 Author
 **Yash Devghare**  
-📌 MBA (Business Analytics & IT)  
+MBA- Business Analytics & IT
+Certified in Business Analytics & Consulting 
+
+---
+
