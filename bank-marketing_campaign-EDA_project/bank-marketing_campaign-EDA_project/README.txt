@@ -99,8 +99,10 @@
 
 ---
 
-## 📜 Author
+## 👤 Author
 **Yash Devghare**  
-Business Analytics & Consulting Professional
+MBA- Business Analytics & IT 
+Certified in Business Analytics & Consulting 
 
 ---
+
